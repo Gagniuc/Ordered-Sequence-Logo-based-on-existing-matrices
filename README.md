@@ -2,7 +2,7 @@
 Ordered Sequence Logo based on existing matrices
 
 # Live demo
-https://gagniuc.github.io/Ordered-Sequence-Logo-based-on-existing-matrices/
+https://gagniuc.github.io/Ordered-Sequence-Logo-based-on-
 
 # Screenshot
 ![screenshot](https://github.com/Gagniuc/Ordered-Sequence-Logo-based-on-existing-matrices/blob/main/Ordered%20Sequence%20Logo%20based%20on%20existing%20matrices.png)
