@@ -8,7 +8,7 @@ https://gagniuc.github.io/Ordered-Sequence-Logo-based-on-existing-matrices/
 
 # Screenshot
 
-![screenshot](https://github.com/Gagniuc/Ordered-Sequence-Logo-based-on-existing-matrices/blob/main/Ordered%20Sequence%20Logo%20based%20on%20existing%20matrices.png)
+![screenshot](https://github.com/Gagniuc/Ordered-Sequence-Logo-based-on-existing-matrices/blob/main/img/Ordered%20Sequence%20Logo%20based%20on%20existing%20matrices.png?raw=true)
 
 # References
 
